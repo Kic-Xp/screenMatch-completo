@@ -52,3 +52,8 @@ spring.datasource.password=${DB_PASSWORD}
    ```bash
    mvn exec:java
    ```
+
+
+  ### Agradecimentos:
+Este projeto foi inspirado e desenvolvido com o apoio dos cursos da Alura. Agradeço a toda a equipe da Alura pelo conteúdo de qualidade e por proporcionar uma excelente plataforma de aprendizado.
+
