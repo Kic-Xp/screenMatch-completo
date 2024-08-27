@@ -37,7 +37,7 @@ spring.datasource.password=${DB_PASSWORD}
 ### Como Executar:
 1. Clone o repositório:
    ```bash
-   git clone <URL-do-repositório>
+   git clone github.com/Kic-Xp/screenMatch-completo
    ```
 2. Navegue até o diretório do projeto:
    ```bash
